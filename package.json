@@ -1,7 +1,7 @@
 {
-  "name": "hypertabs",
+  "name": "monkey",
   "version": "1.0.0",
-  "description": "Unofficial Hypertabs easy deployment version with TompHTTP bare server included.",
+  "description": "Unofficial  easy deployment version with TompHTTP bare server included.",
   "type": "module",
   "scripts": {
     "start": "node src/index.js"
@@ -9,7 +9,7 @@
   "files": ["static", "src", ".gitignore", "app.json", ".replit", "replit.nix", "Procfile"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amethystnetwork-dev/Hypertabs"
+    "url": "git+https://github.com/amethystnetwork-dev/"
   },
   "keywords": ["amethystnetwork-dev"],
   "author": "",
